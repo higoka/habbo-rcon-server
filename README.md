@@ -1,5 +1,5 @@
 # habbo-rcon-server
-The backend application for habbo-rcon-client
+The backend application for [habbo-rcon-client](https://github.com/higoka/habbo-rcon-client)
 
 ### Setup
 1. Download this repo and extract it.
